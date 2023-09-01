@@ -1,0 +1,18 @@
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  background: rgb(25, 104, 25);
+  color: rgb(235, 235, 235);
+  border-radius: 5px;
+  padding: 15px;
+  font-size: 20px;
+  transition: background 0.5s ease-in-out;
+}
+
+button:hover {
+  background: rgb(14, 21, 247);
+}
