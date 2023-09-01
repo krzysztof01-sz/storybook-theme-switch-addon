@@ -1,9 +1,15 @@
 {
   "name": "storybook-theme-switch-addon",
-  "version": "0.0.0",
+  "version": "0.0.5",
   "description": "Switch easily between multiple themes declared in your css files",
   "keywords": [
-    "stylesheet", "css", "themes", "tailwind", "switcher", "addons", "storybook-addons"
+    "stylesheet",
+    "css",
+    "themes",
+    "tailwind",
+    "switcher",
+    "addons",
+    "storybook-addons"
   ],
   "repository": {
     "type": "git",
@@ -102,7 +108,10 @@
   "storybook": {
     "displayName": "Storybook theme switcher",
     "supportedFrameworks": [
-      "react", "next", "vue", "angular"
+      "react",
+      "next",
+      "vue",
+      "angular"
     ],
     "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
   }
