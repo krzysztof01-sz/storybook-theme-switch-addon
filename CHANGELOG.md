@@ -1,3 +1,15 @@
+# v0.0.6 (Fri Sep 01 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@krzysztof01-sz](https://github.com/krzysztof01-sz))
+
+#### Authors: 1
+
+- Krzysztof Szczepański ([@krzysztof01-sz](https://github.com/krzysztof01-sz))
+
+---
+
 # v0.0.5 (Fri Sep 01 2023)
 
 #### ⚠️ Pushed to `main`
