@@ -1,13 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { useGlobals, useStorybookApi } from "@storybook/manager-api";
-import {
-  Icons,
-  IconButton,
-  WithTooltip,
-  TooltipLinkList,
-} from "@storybook/components";
+import { WithTooltip, TooltipLinkList } from "@storybook/components";
 import { changeStylesheet } from "./helpers";
 import { GlobalTypes, Theme } from "./preview";
+import { PaintBrushIcon } from "@storybook/icons";
 
 type ThemeID = Theme["id"];
 
@@ -79,7 +75,7 @@ export const ThemeSwitcher = () => {
     <WithTooltip
       placement="top"
       trigger="click"
-      tooltip={({ onHide }) => {
+      tooltip={({ onHide }: any) => {
         if (stylesheets) {
           const { themes } = stylesheets;
           return (
@@ -89,11 +85,8 @@ export const ThemeSwitcher = () => {
           );
         }
       }}
-      closeOnClick
     >
-      <IconButton title="Toggle stylesheet">
-        <Icons icon="paintbrush" />
-      </IconButton>
+      <PaintBrushIcon />
     </WithTooltip>
   );
 };
