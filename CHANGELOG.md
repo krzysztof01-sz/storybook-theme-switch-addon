@@ -1,3 +1,15 @@
+# v0.0.7 (Mon Jul 22 2024)
+
+#### 🐛 Bug Fix
+
+- BREAKING CHANGE: upgrade to storybook v8.2.3 [#2](https://github.com/krzysztof01-sz/storybook-theme-switch-addon/pull/2) ([@krzysztof01-sz](https://github.com/krzysztof01-sz))
+
+#### Authors: 1
+
+- Krzysztof Szczepański ([@krzysztof01-sz](https://github.com/krzysztof01-sz))
+
+---
+
 # v0.0.6 (Fri Sep 01 2023)
 
 #### ⚠️ Pushed to `main`
