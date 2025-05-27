@@ -1,3 +1,15 @@
+# v1.0.2 (Tue May 27 2025)
+
+#### 🐛 Bug Fix
+
+- feat: add react 19 support [#6](https://github.com/krzysztof01-sz/storybook-theme-switch-addon/pull/6) ([@krzysztof01-sz](https://github.com/krzysztof01-sz))
+
+#### Authors: 1
+
+- Krzysztof Szczepański ([@krzysztof01-sz](https://github.com/krzysztof01-sz))
+
+---
+
 # v0.0.7 (Mon Jul 22 2024)
 
 #### 🐛 Bug Fix
