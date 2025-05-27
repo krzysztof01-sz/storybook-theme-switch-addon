@@ -1,6 +1,6 @@
 {
   "name": "storybook-theme-switch-addon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Switch easily between multiple themes declared in your css files",
   "keywords": [
     "stylesheet",
